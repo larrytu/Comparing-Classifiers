@@ -1,6 +1,4 @@
-# Project Title
-
-A short description of what your project does or aims to achieve.
+# Comparing Classifiers
 
 ## Table of Contents
 1. [Introduction](#introduction)
