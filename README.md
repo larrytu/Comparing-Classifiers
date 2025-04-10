@@ -8,10 +8,6 @@ A short description of what your project does or aims to achieve.
 3. [Model Evaluation](#model-evaluation)
 4. [Results](#results)
 5. [Conclusion](#conclusion)
-6. [Installation & Usage](#installation--usage)
-7. [Project Structure](#project-structure)
-8. [References](#references)
-
 ---
 
 ## Introduction
